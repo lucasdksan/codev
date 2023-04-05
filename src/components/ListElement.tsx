@@ -5,7 +5,7 @@ import covidIcon from "../assets/virus.svg";
 
 const ListElement = ({ text }:ListElementTypes)=>{
     return(
-        <li className="flex flex-row items-center justify-center gap-5">
+        <li className="flex flex-row items-center justify-center gap-5 my-1">
             <Image 
                 src={covidIcon}
                 alt="Covid Icon"
