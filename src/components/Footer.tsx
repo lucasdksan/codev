@@ -11,7 +11,7 @@ const Footer = ()=>{
         <footer className="w-full h-auto bg-df-green py-5">
             <div className="max-w-7xl mx-auto my-0 flex flex-row justify-between items-center">
                 <span className="font-sans not-italic font-medium text-lg text-white">
-                    © 2021, Design & Developed by Atik Gohel and Lucas da Silva Leoncio.
+                    © 2021, Developed by Lucas da Silva Leoncio.
                 </span>
                 <button
                     onClick={scrollToTop}
